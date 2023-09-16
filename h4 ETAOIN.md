@@ -292,9 +292,7 @@ I chose GPG for this demonstration because it's a widely used and trusted encryp
 
 ## 2. Install GPG
 
-![image-20230916161731393](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h4\h4\image-20230916161731393.png)
-
-![image-20230916161811390](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h4\h4\image-20230916161811390.png)
+<img width="437" alt="image" src="https://github.com/piafernandez/h4-ETAOIN/assets/71267247/83fda654-8992-44a6-b9fc-07e3b2c033fc">
 
 ```
 Note that I already have downloaded this in class.
@@ -304,7 +302,7 @@ Note that I already have downloaded this in class.
 
 > This step creates a pair of keys for encryption and decryption. The private key is kept secret and is used for decryption, while the public key is shared with others for encrypting messages to you.
 
-![image-20230916161949283](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h4\h4\image-20230916161949283.png)
+<img width="455" alt="image" src="https://github.com/piafernandez/h4-ETAOIN/assets/71267247/76beaada-1f92-42a0-a716-63461006eaca">
 
 ```
 Set a passphrase for your private key. This passphrase is used to protect your private key and should be kept secret. For this example, I didn't  put a passphrase.
@@ -312,16 +310,16 @@ Set a passphrase for your private key. This passphrase is used to protect your p
 
 ## 3. Export public key 
 
-![image-20230916162040292](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h4\h4\image-20230916162040292.png)
+<img width="454" alt="image" src="https://github.com/piafernandez/h4-ETAOIN/assets/71267247/273e2492-48d1-475f-9e5e-9af6a3df9347">
 
-![image-20230916162117243](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h4\h4\image-20230916162117243.png)
 
 ```
 Once your key pair is generated, you can list your keys with:    
 gpg --list-keys
 ```
 
-![image-20230916162245185](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h4\h4\image-20230916162245185.png)
+<img width="341" alt="image" src="https://github.com/piafernandez/h4-ETAOIN/assets/71267247/9838f11a-c64a-4919-b748-fed1488bba74">
+
 
 ## 4. Import public key of the recipients
 
@@ -329,7 +327,7 @@ gpg --list-keys
 You need to import your recipients public key so you can encrypt your message with it.
 ```
 
-![image-20230916162418187](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h4\h4\image-20230916162418187.png)
+<img width="289" alt="image" src="https://github.com/piafernandez/h4-ETAOIN/assets/71267247/b0896948-8975-4443-bb37-7e428593a13b">
 
 ```
 You need to press CTRL + D after this command !
@@ -337,25 +335,26 @@ You need to press CTRL + D after this command !
 
 ## 5. Verify the key
 
-![image-20230916162454869](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h4\h4\image-20230916162454869.png)
+<img width="247" alt="image" src="https://github.com/piafernandez/h4-ETAOIN/assets/71267247/4227531d-36bf-4b59-91ee-27a59e50ac01">
 
 ```
 Now her public key is in my list: 
 ```
 
-![image-20230916162552436](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h4\h4\image-20230916162552436.png)
+<img width="435" alt="image" src="https://github.com/piafernandez/h4-ETAOIN/assets/71267247/5c4d60c6-df9a-4a23-a022-f83e7d42775b">
 
 ## 5. Encrypt a Message
 
 > Encrypting the message with the recipient's public key ensures that only the recipient, who possesses the corresponding private key, can decrypt and read it.
 
-![image-20230916162805393](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h4\h4\image-20230916162805393.png)
+<img width="429" alt="image" src="https://github.com/piafernandez/h4-ETAOIN/assets/71267247/d15bdd88-ab71-4b58-8403-6392b74ba00b">
 
 ```
 Now type your message then press CTRL + D
 ```
 
-![image-20230916162835224](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h4\h4\image-20230916162835224.png)
+<img width="429" alt="image" src="https://github.com/piafernandez/h4-ETAOIN/assets/71267247/05a81ad9-6eba-4b3f-a3d0-d3a323c4e8d1">
+
 
 ```
 You can now copy this message, note that you need to copy everything.
@@ -369,13 +368,14 @@ You can now copy this message, note that you need to copy everything.
 I have received a message via email. But the message is encrypted. The sender used my public key to encrypt the message. 
 ```
 
-![image-20230916163451887](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h4\h4\image-20230916163451887.png)
+<img width="226" alt="image" src="https://github.com/piafernandez/h4-ETAOIN/assets/71267247/f148093a-9693-4540-b484-18ed9e323c59">
+
 
 ```
 Now I use the command below that will use my private key to decrypt the message.
 ```
 
-![image-20230916163517102](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h4\h4\image-20230916163517102.png)
+<img width="434" alt="image" src="https://github.com/piafernandez/h4-ETAOIN/assets/71267247/d1cbc701-a676-4d55-925d-2292d276346d">
 
 # Sources and links
 
