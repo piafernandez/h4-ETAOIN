@@ -38,7 +38,7 @@
 Here are the six most common letters in the French language based on their frequency of use:
 ```
 
-![image-20230916122238862](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h4\h4\image-20230916122238862.png)![image-20230916122254805](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h4\h4\image-20230916122254805.png)
+<img width="169" alt="image" src="https://github.com/piafernandez/h4-ETAOIN/assets/71267247/3670e51d-f24c-4106-bfb9-132f16d5cd04">
 
 # Choose a password manager
 
@@ -219,13 +219,13 @@ Here is a step-by-step instructions on how to use a password manager like LastPa
 
 Go to https://www.lastpass.com/products/personal
 
-<img src="C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h4\h4\image-20230916165259099.png" alt="image-20230916165259099" style="zoom:50%;" />
+<img width="306" alt="image" src="https://github.com/piafernandez/h4-ETAOIN/assets/71267247/39be171f-3308-44f4-b4fb-5e0cf09d57bc">
 
 ## Step 2: Set Up a Master Password
 
 Click on Start Families Trial and create an account.
 
-<img src="C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h4\h4\image-20230916165326921.png" alt="image-20230916165326921" style="zoom:50%;" />
+<img width="264" alt="image" src="https://github.com/piafernandez/h4-ETAOIN/assets/71267247/fdd74dac-7040-42dd-bb15-7cc4be29dcb0">
 
 ```
 During the setup process, you'll be asked to create a strong and memorable master password. This is the only password you'll need to remember.
@@ -235,7 +235,7 @@ Ensure that your master password is unique and not used elsewhere.
 
 ## Step 3 Install or add the extension to your browser
 
-![image-20230916165622519](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h4\h4\image-20230916165622519.png)
+<img width="412" alt="image" src="https://github.com/piafernandez/h4-ETAOIN/assets/71267247/f8ac0447-7a1f-479b-b379-0cf66d23b22b">
 
 ## Step 4: Save Your First Login Credentials
 
@@ -247,17 +247,16 @@ When prompted, choose to save the login details for the website.
 
 
 
-![image-20230916165831305](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h4\h4\image-20230916165831305.png)
-
-![image-20230916165853252](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h4\h4\image-20230916165853252.png)
+<img width="379" alt="image" src="https://github.com/piafernandez/h4-ETAOIN/assets/71267247/c4a68d56-d7fa-408c-bf6c-cd0c33136085">
+<img width="248" alt="image" src="https://github.com/piafernandez/h4-ETAOIN/assets/71267247/cce501b5-f6ee-4253-85d0-0307399cd684">
 
 ```
 Here you can see the the site and log in details have been added to my LastPass account.
 ```
+<img width="446" alt="image" src="https://github.com/piafernandez/h4-ETAOIN/assets/71267247/f3904c43-c85a-485d-a564-bd8d7f040721">
 
 
 
-![image-20230916165920650](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h4\h4\image-20230916165920650.png)
 
 ## **Step 5: Auto-Fill Login Credentials**
 
@@ -269,7 +268,7 @@ When you revisit a website where you've saved login credentials, the password ma
 You may need to authenticate using your master password to unlock access to your stored passwords.
 ```
 
-![image-20230916170012304](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h4\h4\image-20230916170012304.png)
+<img width="281" alt="image" src="https://github.com/piafernandez/h4-ETAOIN/assets/71267247/afc5e8a1-4f59-426f-ad52-4a38e6981dd5">
 
 
 
@@ -281,7 +280,7 @@ When creating new accounts or updating passwords, use the password manager's pas
 The password manager will save these generated passwords for you.
 ```
 
-![image-20230916170717516](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h4\h4\image-20230916170717516.png)
+<img width="287" alt="image" src="https://github.com/piafernandez/h4-ETAOIN/assets/71267247/b6c82e1c-bf91-406a-9ed2-31c674e23cfb">
 
 # Encrypt and decrypt a message + Bonus: send and receive encrypted message over email
 
